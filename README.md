@@ -1,7 +1,3 @@
-Aqui está o **README.md** com as melhorias e a formatação que você solicitou, incluindo as alterações para tornar o conteúdo mais técnico e organizado, conforme discutido:
-
----
-
 # **Cybersecurity Incident Report** 🛡️
 
 ## **Overview**
